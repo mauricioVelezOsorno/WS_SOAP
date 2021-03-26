@@ -7,3 +7,5 @@ Documentación para los WEBSERVICE  los cuales están utilizando SOAP (Simple Ob
 ---
 
 ### Puerto Triunfo
+> Link del servicio
+> `<link>` : <http://puertotriunfo.erpv6.co:2044/servicio.asmx?op=GetNotificarPago>
