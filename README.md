@@ -4,6 +4,7 @@ Documentación para los WEBSERVICE  los cuales están utilizando SOAP (Simple Ob
 
 ## Municipios
 - Puerto Triunfo
+> Provedor del Web Service SINAP
 ---
 
 ### Puerto Triunfo
